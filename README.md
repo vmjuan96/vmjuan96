@@ -1,10 +1,24 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Que Tal 👋, Mi Nombre es Juan Velasquez</h1>
-<h3 align="center">Soy Frontend Developer 🤩</h3>
+<div align="left">
+🔴🟡🟢
+    <img src="https://media.licdn.com/dms/image/D4D16AQH22ZTNZlBSFw/profile-displaybackgroundimage-shrink_350_1400/0/1710832972067?e=1717632000&v=beta&t=ZrF_hjj3pj-8i-Li3oT9zuPh0fx8XvNl8xTXIvOIrV4" width="100%" />
+<br>
+</div>
+
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://github.com/vmjuan96">Juan Velasquez</a> 👋</h1>
+<h3 align="center">Frontend Developer 🤩</h3>
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWLxe4pYxk2ndUEm2hjcjyA)](https://www.youtube.com/c/SlyBlueGamer?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/slybluegamer)
+[![GitHub followers](https://img.shields.io/github/followers/vmjuan96?style=social)](https://github.com/vmjuan96)
+![Discord Shield](https://discordapp.com/api/guilds/560585660080193536/widget.png?style=shield)
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/vmjuan96&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/vmjuan96" /> </p>
 
 
-
+## Sobre mi
 - 🌱 I’m currently learning **Ionic Frameword**
 - 💬 Ask me about **Html5, Css3, Angular, Ionic, JavaScript**
 - 📫 How to reach me **vmjuan96@gmail.com**
@@ -44,5 +58,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/vmjuan96">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vmjuan96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vmjuan96&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
