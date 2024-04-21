@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/vmjuan96">Juan Velasquez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vmjuan96">Juan Velasquez</a> 👋</h1>
 <h3 align="center">Frontend Developer 🤩</h3>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWLxe4pYxk2ndUEm2hjcjyA)](https://www.youtube.com/c/SlyBlueGamer?sub_confirmation=1)
