@@ -1,6 +1,6 @@
 <div align="left">
 🔴🟡🟢
-    <img src="https://media.licdn.com/dms/image/D4D16AQH22ZTNZlBSFw/profile-displaybackgroundimage-shrink_350_1400/0/1710832972067?e=1717632000&v=beta&t=ZrF_hjj3pj-8i-Li3oT9zuPh0fx8XvNl8xTXIvOIrV4" width="100%" />
+    <img src="https://media.licdn.com/dms/image/D4D16AQH22ZTNZlBSFw/profile-displaybackgroundimage-shrink_350_1400/0/1710832972067?e=1724284800&v=beta&t=hwYYMhJ7T4AzENOuid_h9aRT0aaVHitxNDFg_SJNAkQ" width="100%" />
 <br>
 </div>
 
